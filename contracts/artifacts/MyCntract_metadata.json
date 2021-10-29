@@ -71,7 +71,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/datatypes.sol": "MyCOntract"
+			"contracts/enum.sol": "MyCntract"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -85,11 +85,11 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/datatypes.sol": {
-			"keccak256": "0x116e42bdbdd5f7e7809b68b33c6dc1570155ff076284fa6a59beb59a6feb933f",
+		"contracts/enum.sol": {
+			"keccak256": "0x32393e5f1cc03592f4a531b8f1e92c0291d0dda8fdb1680e47d43381490aef10",
 			"urls": [
-				"bzz-raw://82d4a7e300c661cc1b2a8f7bd9fd3fe3784728c32d44b2b0926777b425319d84",
-				"dweb:/ipfs/QmcANutNTUmWWcZVcN3RKhZyZP55nT51oDt9LKnT8HV5gh"
+				"bzz-raw://69599379cfd23a1d122c9a46c7c87fdf6ed9dad505482217f0ebcdd584640dd7",
+				"dweb:/ipfs/QmTgE8tmswv4fmWXR82yyGBBnfg12SD5Qx4mJtUFae3fYE"
 			]
 		}
 	},
