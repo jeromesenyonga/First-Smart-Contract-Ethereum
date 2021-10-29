@@ -1,0 +1,76 @@
+{
+	"compiler": {
+		"version": "0.8.9+commit.e5eed63a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "get",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_value",
+						"type": "string"
+					}
+				],
+				"name": "set",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/mycontract.sol": "MyCOntract"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/mycontract.sol": {
+			"keccak256": "0xb54d563548d420e301cdac8d13feedf0d6ec2a089eb53c8bd9c54d33a2a7c3c2",
+			"urls": [
+				"bzz-raw://f8cc6022d0a974aa14dc6e1f1ab987a480d36d8338b7152400cadf4a7b6c875f",
+				"dweb:/ipfs/QmQzfhxg99XmVxTv2prCJ5fGvz2etDmh5ZfsSpxeHXRGYd"
+			]
+		}
+	},
+	"version": 1
+}
